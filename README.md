@@ -72,6 +72,21 @@
 
 ###
 
+<h2 align="left">Contact me</h2>
+
+###
+
+<div align="left">
+  <a href="https://t.me/Arteeeeeemis" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  /><a/>
+  <a href="mailto:smirnoff-a-a@mail.ru" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /><a/>
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
 <h2 align="left">⬇️ Check out my repositories ⬇️</h2>
 
 ###
