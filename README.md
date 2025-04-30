@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">• <a href="https://mirror.bmstu.ru/about" target="_blank">BMSTU<a/> | CS student 👨‍💻<br> • <a href="https://kts.tech/" target="_blank">KTS<a/> | frontend development graduate📗<br>• <a href="https://sochisirius.ru/o-siriuse/programmes-of-the-educational-centre-sirius" target="_blank">"SIRIUS"<a/> educational centre graduate🎓</p>
+<p align="left">• <a href="https://mirror.bmstu.ru/about" target="_blank">BMSTU<a/> | CS student 👨‍💻<br> • <a href="https://kts.tech/" target="_blank">KTS<a/> | frontend development graduate📗<br>• <a href="https://sochisirius.ru/o-siriuse/programmes-of-the-educational-centre-sirius" target="_blank">SIRIUS<a/> educational centre graduate🎓</p>
 
 ###
 
