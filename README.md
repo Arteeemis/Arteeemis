@@ -108,6 +108,6 @@
 
 ###
 
-<h3 align="center">⬇️Check out my repos⬇️</h3>
+<h3 align="center" style="font-size: 32px;">⬇️Check out my repos⬇️</h3>
 
 ###
