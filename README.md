@@ -42,7 +42,7 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="40" />
-  <img src="https://web-creator.ru/technologies/mobx.png" height="43" alt="MobX logo">
+  <img src="https://static-00.iconduck.com/assets.00/mobx-icon-2048x2048-px9s17yw.png" height="43" alt="MobX logo">
 </div>
 
 ###
