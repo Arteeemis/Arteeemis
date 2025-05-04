@@ -15,7 +15,7 @@
   • <a href="https://mirror.bmstu.ru/about" target="_blank">BMSTU</a> | CS student&nbsp  <img src="https://abali.ru/wp-content/uploads/2013/03/Gerb_MGTU_imeni_Baumana.png" height="30" align="center">
   <br>
   • <a href="https://kts.tech/" target="_blank">KTS</a> | frontend development graduate&nbsp  <img src="https://kts.tech/_next/static/media/logo.7d06f088.png" height=22><br>
-  • <a href="https://sochisirius.ru/o-siriuse/programmes-of-the-educational-centre-sirius" target="_blank">SIRIUS</a> | educational centre graduate&nbsp <img src="https://gimnaziya33ulyanovsk-r73.gosweb.gosuslugi.ru/netcat_files/52/217/2024_12_03_15_35_51.png" height="20">
+  • <a href="https://sochisirius.ru/o-siriuse/programmes-of-the-educational-centre-sirius" target="_blank">SIRIUS</a> | educational centre graduate&nbsp <img src="https://static.tildacdn.com/tild3266-6237-4635-b636-643162616161/__.svg" height="20">
 </p>
 
 
