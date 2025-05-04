@@ -12,7 +12,7 @@
 ###
 
 <p align="left">
-  • <a href="https://mirror.bmstu.ru/about" target="_blank">BMSTU</a> | CS student&nbsp  <img src="https://fiep.bmstu.ru/wp-content/uploads/2019/11/logo_bmstu_main.png" height="30" align="center">
+  • <a href="https://mirror.bmstu.ru/about" target="_blank">BMSTU</a> | CS student&nbsp  <img src="https://fiep.bmstu.ru/wp-content/uploads/2019/11/logo_bmstu_main.png](https://upload.wikimedia.org/wikipedia/ru/thumb/b/bd/%D0%93%D0%B5%D1%80%D0%B1_%D0%9C%D0%93%D0%A2%D0%A3_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9D._%D0%AD._%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0.svg/1200px-%D0%93%D0%B5%D1%80%D0%B1_%D0%9C%D0%93%D0%A2%D0%A3_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9D._%D0%AD._%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0.svg.png" height="30" align="center">
   <br>
   • <a href="https://kts.tech/" target="_blank">KTS</a> | frontend development graduate&nbsp  <img src="https://kts.tech/_next/static/media/logo.7d06f088.png" height=22><br>
   • <a href="https://sochisirius.ru/o-siriuse/programmes-of-the-educational-centre-sirius" target="_blank">SIRIUS</a> | educational centre graduate&nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sirius_educational_centre_horizontal_rus.svg/1200px-Sirius_educational_centre_horizontal_rus.svg.png" height="20">
