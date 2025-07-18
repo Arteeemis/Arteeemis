@@ -14,7 +14,7 @@
 <p align="left">
   • <a href="https://mirror.bmstu.ru/about" target="_blank">BMSTU</a> | CS student&nbsp  <img src="https://abali.ru/wp-content/uploads/2013/03/Gerb_MGTU_imeni_Baumana.png" height="25" align="center">
   <br><br>
-  • <a href="https://www.tbank.ru/career/" target="_blank">T-Bank</a> intern | T-education graduate<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/T-Bank_RU_logo.svg/2560px-T-Bank_RU_logo.svg.png" height="25" align="center">
+  • <a href="https://www.tbank.ru/career/" target="_blank">T-Bank</a> intern | T-education graduate&nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/T-Bank_RU_logo.svg/2560px-T-Bank_RU_logo.svg.png" height="25" align="center">
   <br><br>
   • <a href="https://kts.tech/" target="_blank">KTS</a> | frontend development graduate&nbsp  <img src="https://kts.tech/_next/static/media/logo.7d06f088.png" height=22><br><br>
   • <a href="https://sochisirius.ru/o-siriuse/programmes-of-the-educational-centre-sirius" target="_blank">SIRIUS</a> | educational centre graduate&nbsp <img src="https://static.tildacdn.com/tild3266-6237-4635-b636-643162616161/__.svg" height="20">
