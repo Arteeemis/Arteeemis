@@ -33,6 +33,8 @@
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
+  <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="40" />
   <img src="https://cdn.freebiesupply.com/logos/large/2x/mobx-logo-svg-vector.svg" height="40" alt="MobX logo">
