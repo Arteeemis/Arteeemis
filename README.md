@@ -12,9 +12,9 @@
 ###
 
 <p align="left">
-  • <a href="https://mirror.bmstu.ru/about" target="_blank">BMSTU</a> | CS graduate&nbsp  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/b/bd/%D0%93%D0%B5%D1%80%D0%B1_%D0%9C%D0%93%D0%A2%D0%A3_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9D._%D0%AD._%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0.svg/1920px-%D0%93%D0%B5%D1%80%D0%B1_%D0%9C%D0%93%D0%A2%D0%A3_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9D._%D0%AD._%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="45" align="center">
-  <br><br>
   • <a href="https://itmo.ru/" target="_blank">ITMO</a> | CS student&nbsp  <img src="https://itmo.ru/file/pages/213/logo_na_plashke_russkiy_belyy.png" height="25" align="center">
+  <br><br>
+  • <a href="https://mirror.bmstu.ru/about" target="_blank">BMSTU</a> | CS graduate&nbsp  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/b/bd/%D0%93%D0%B5%D1%80%D0%B1_%D0%9C%D0%93%D0%A2%D0%A3_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9D._%D0%AD._%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0.svg/1920px-%D0%93%D0%B5%D1%80%D0%B1_%D0%9C%D0%93%D0%A2%D0%A3_%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8_%D0%9D._%D0%AD._%D0%91%D0%B0%D1%83%D0%BC%D0%B0%D0%BD%D0%B0.svg.png?utm_source=ru.wikipedia.org&utm_campaign=index&utm_content=thumbnail" height="40" align="center">
   <br><br>
   • <a href="https://www.tbank.ru/career/" target="_blank">T-Bank</a> | T-education graduate&nbsp <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/T-Bank_RU_logo.svg/1280px-T-Bank_RU_logo.svg.png" height="25" align="center">
   <br><br>
